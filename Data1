@@ -1,12 +1,22 @@
 [
   {
-    "name": "Salah",
+    "name": "M.Salah",
     "position": "RW"
     
   },
   {
-    "name": "Mane",
+    "name": "S.Mane",
     "position": "LW"
+    
+  },
+   {
+    "name": "R.Firmino",
+    "position": "CF"
+    
+  },
+   {
+    "name": "Alisson",
+    "position": "GK"
     
   }
 ]
