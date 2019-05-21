@@ -53,5 +53,47 @@
     "name": "Alisson",
     "position": "GK"
     
+  },
+  {
+    "name": "D.Origi",
+    "position": "CF"
+    
+  },
+  {
+    "name": "X.Shaqiri",
+    "position": "RW"
+    
+  },
+  {
+    "name": "A.Lallana",
+    "position": "CM"
+    
+  },
+  {
+    "name": "J. Milner",
+    "position": "CM"
+    
+  },
+  {
+    "name": "Fabinho",
+    "position": "CDM"
+    
+  },
+   {
+    "name": "J.Gomez",
+    "position": "CB"
+    
+  },
+   {
+    "name": "D.Lovren",
+    "position": "CB"
+    
+  },
+ 
+   {
+    "name": "S.Mignolet",
+    "position": "GK"
+    
   }
+  
 ]
