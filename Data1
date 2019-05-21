@@ -14,14 +14,44 @@
     "position": "CF"
     
   },
-   {
-    "name": "Alisson",
-    "position": "GK"
+  {
+    "name": "G.Wijnaldum",
+    "position": "CM"
+    
+  },
+  {
+    "name": "N.Keita",
+    "position": "CM"
+    
+  },
+  {
+    "name": "J.Henderson",
+    "position": "CDM"
+    
+  },
+  {
+    "name": "T.Alexander-Arnold",
+    "position": "RB"
+    
+  },
+  {
+    "name": "Virgil van Dijk",
+    "position": "CB"
+    
+  },
+  {
+    "name": "J.Matip",
+    "position": "CB"
+    
+  },
+  {
+    "name": "A.Robertson",
+    "position": "LB"
     
   },
    {
-    "name": "Virgil van Dijk",
-    "position": "CB"
+    "name": "Alisson",
+    "position": "GK"
     
   }
 ]
