@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "name": "Noah",
+    "movie_type": "artistic",
+    "category": "",
+    "release_year": 2018
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/148455-1546611604.jpg?lm=1"
+  },  
+  {
+    "id": 1,
+    "name": "LOTR",
+    "movie_type": "artistic",
+    "category": "",
+    "release_year": 2018
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/148455-1546611604.jpg?lm=1"
+  },
+  {
+    "id": 2,
+    "name": "The Hobbit",
+    "movie_type": "artistic",
+    "category": "",
+    "release_year": 2018
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/148455-1546611604.jpg?lm=1"
+  }
+]
