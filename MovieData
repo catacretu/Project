@@ -1,42 +1,42 @@
 [
   {
     "id": 0,
-    "name": "Noah",
+    "name": "Avatar: The Way of Water",
     "movieType": "artistic",
-    "category": "Adventure",
-    "releaseYear": 2014,
-    "imageUrl": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81Es6O2YAkL._AC_UF894,1000_QL80_.jpg"
+    "category": "Fantasy",
+    "releaseYear": 2022,
+    "imageUrl": "https://image.tmdb.org/t/p/w500/ovM06PdF3M8wvKb06i4sjW3xoww.jpg"
   },
   {
     "id": 1,
-    "name": "Lord of the Rings",
-    "movie_type": "serial",
+    "name": "John Wick: Chapter 4",
+    "movie_type": "artistic",
     "category": "Action",
-    "release_year": 2003,
-    "imageUrl": "https://static.cinemagia.ro/img/resize/db/movie/00/39/46/the-lord-of-the-rings-the-return-of-the-king-804512l-175x0-w-8472f669.jpg"
+    "release_year": 2023,
+    "imageUrl": "https://image.tmdb.org/t/p/w500/i8dshLvq4LE3s0v8PrkDdUyb1ae.jpg"
   },
   {
     "id": 2,
-    "name": "The Hobbit",
-    "movie_type": "serial",
-    "category": "Action",
-    "release_year": 2013,
-    "imageUrl": "https://tolkiengateway.net/w/images/thumb/9/91/The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg/1200px-The_Hobbit_-_The_Desolation_of_Smaug_-_poster_2.jpg"
+    "name": "Schindler's List",
+    "movie_type": "artistic",
+    "category": "Drama",
+    "release_year": 1993,
+    "imageUrl": "https://image.tmdb.org/t/p/w500/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
   },
   {
     "id": 3,
-    "name": "The Queen's Gambit",
+    "name": "The Hobbit",
     "movie_type": "serial",
-    "category": "Drama",
-    "release_year": 2020,
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_.jpg"
+    "category": "Adventure",
+    "release_year": 2014,
+    "imageUrl": "https://image.tmdb.org/t/p/w500/bVmSXNgH1gpHYTDyF9Q826YwJT5.jpg"
   },
   {
     "id": 4,
     "name": "Gladiator",
     "movie_type": "artistic",
-    "category": "serial",
+    "category": "Action",
     "release_year": 2000,
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Gladiator_%282000_film_poster%29.png/220px-Gladiator_%282000_film_poster%29.png"
+    "imageUrl": "https://image.tmdb.org/t/p/w500/aZtwH3RQ0L8jbInxr7OSc9tlGMJ.jpg"
   }
 ]
