@@ -3,23 +3,7 @@
     "id": 0,
     "name": "Noah",
     "movieType": "artistic",
-    "category": "",
-    "releaseYear": 2018
-    "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/148455-1546611604.jpg?lm=1"
-  },  
-  {
-    "id": 1,
-    "name": "LOTR",
-    "movieType": "artistic",
-    "category": "",
-    "releaseYear": 2018
-    "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/148455-1546611604.jpg?lm=1"
-  },
-  {
-    "id": 2,
-    "name": "The Hobbit",
-    "movieType": "artistic",
-    "category": "",
+    "category": "DA",
     "releaseYear": 2018
     "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/148455-1546611604.jpg?lm=1"
   }
