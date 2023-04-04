@@ -10,33 +10,33 @@
   {
     "id": 1,
     "name": "John Wick: Chapter 4",
-    "movie_type": "artistic",
+    "movieType": "artistic",
     "category": "Action",
-    "release_year": 2023,
+    "releaseYear": 2023,
     "imageUrl": "https://image.tmdb.org/t/p/w500/i8dshLvq4LE3s0v8PrkDdUyb1ae.jpg"
   },
   {
     "id": 2,
     "name": "Schindler's List",
-    "movie_type": "artistic",
+    "movieType": "artistic",
     "category": "Drama",
-    "release_year": 1993,
+    "releaseYear": 1993,
     "imageUrl": "https://image.tmdb.org/t/p/w500/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
   },
   {
     "id": 3,
     "name": "The Hobbit",
-    "movie_type": "serial",
+    "movieType": "serial",
     "category": "Adventure",
-    "release_year": 2014,
+    "releaseYear": 2014,
     "imageUrl": "https://image.tmdb.org/t/p/w500/bVmSXNgH1gpHYTDyF9Q826YwJT5.jpg"
   },
   {
     "id": 4,
     "name": "Gladiator",
-    "movie_type": "artistic",
+    "movieType": "artistic",
     "category": "Action",
-    "release_year": 2000,
+    "releaseYear": 2000,
     "imageUrl": "https://image.tmdb.org/t/p/w500/aZtwH3RQ0L8jbInxr7OSc9tlGMJ.jpg"
   }
 ]
