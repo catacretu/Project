@@ -23,5 +23,11 @@
     "name": "Alisson",
     "position": "GK",
     "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/105470-1668522221.jpg?lm=1"
+  },
+  {
+    "id": 4,
+    "name": "Van Dijk",
+    "position": "CB",
+    "imageUrl": "https://img.a.transfermarkt.technology/portrait/header/139208-1620651710.jpg?lm=1"
   }
 ]
